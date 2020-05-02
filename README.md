@@ -1,3 +1,4 @@
+# Face Recognition API
 
 
 ## Used server side techniques
@@ -15,7 +16,7 @@
 * expressJs
   * Webframework for Node.js
 * knexJs
-   * Framework to send and handle SQL Queries
+  * Framework to send and handle SQL Queries
      * For further installtion for node.js implementation see knexJs installation on node
    
 For further information about the Front End look at  [face-recognition-api].
