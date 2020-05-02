@@ -19,5 +19,5 @@
   * Framework to send and handle SQL Queries
      * For further installtion for node.js implementation see knexJs installation on node
    
-For further information about the Front End look at  [face-recognition-api].
+For further information about the Front End look at [face-recognition-app](https://github.com/yakov1989/face-recognition-app).
 
